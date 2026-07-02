@@ -8,8 +8,9 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 # Projects
 1. [Customer 360 Framework for Electronics Retail: RFM Segmentation, Churn Prediction, and Purchase Behavior Prediction](https://github.com/masayuanandita/Customer-360-Predictive-Analytics-Framework-for-E-Commerce-Retention-Revenue-Growth)
     - **Description:** An electronics e-commerce store had rich transactional data but no unified view of who its customers were, who was about to leave, and how much they were worth going forward. Marketing and retention budgets were being spent uniformly across the customer base instead of being targeted at the segments where they would have the highest impact.
-    - **Technologies Used:**
-    - **Result:** 
+    - **Technologies Used:** Python,pandas, NumPy,scikit-learn, XGBoost, LightGBM, SHAP, matplotlib, seaborn, Google Colab / Jupyter Notebook
+    - **Result:** The final model correctly separates customers into distinct risk/value tiers rather than treating churn as a single blanket problem. The Urgent Retention segment (33.8% of customers, 61% avg. churn risk) is flagged for targeted retention offers, while the Grow & Upsell segment — the smallest group but by far the most valuable per customer — is flagged for premium bundle campaigns instead of retention spend.
+    - **Dashboard:** https://datastudio.google.com/reporting/492e5dd9-6654-4005-8503-a1f75c7ef0f8 
 
 
 3. [IKN PROPERTY](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-026-rmt-group-001/tree/main)
